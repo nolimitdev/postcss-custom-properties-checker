@@ -1,0 +1,29 @@
+{
+  "name": "postcss-custom-properties-checker",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to check unresolved postcss-custom-properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolimitdev/postcss-custom-properties-checker.git"
+  },
+  "keywords": [
+    "webpack",
+    "postcss",
+    "postcss-loader",
+    "postcss-plugin",
+    "variables",
+    "postcss-custom-properties",
+    "warn",
+    "throw"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolimitdev/postcss-custom-properties-checker/issues"
+  },
+  "homepage": "https://github.com/nolimitdev/postcss-custom-properties-checker"
+}
